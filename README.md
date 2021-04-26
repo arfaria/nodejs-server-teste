@@ -16,7 +16,7 @@ Este projeto foi criado utilizando o framework [NodeJS](https://nodejs.org/en/).
 
 4. Estando dentro da pasta do projeto ./nodejs-server-teste, digite o seguinte comando:
 
-### `npx ./server.js`
+### `npx .\server.js`
 
 Abra o navegador de sua preferência e digite [http://localhost:3001](http://localhost:3001) em seu navegador.
 
