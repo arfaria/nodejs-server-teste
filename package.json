@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "Server em NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "server"
+  ],
+  "author": "Arthur R. Faria",
+  "license": "ISC"
+}
