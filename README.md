@@ -1,6 +1,6 @@
 # Projeto Servidor NodeJS
 
-Este projeto foi criado utilizando Javascript, utilizando o compilador NodeJS [NodeJS](https://nodejs.org/en/).
+Este projeto foi criado utilizando Javascript, utilizando o compilador [NodeJS](https://nodejs.org/en/).
 
 ## Preparando o projeto
 
